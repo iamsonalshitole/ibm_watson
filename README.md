@@ -1,2 +1,2 @@
-# sonal-i2it
+# Customer care chatbot using IBM Watson
 live link of project:https://node-red-bvzpo-2020-08-14.eu-gb.mybluemix.net/ui/#!/2?socketid=3Swrw_VKSSwtkRehAAAa
